@@ -1,3 +1,3 @@
 # Estudo com Python e Git
 
-Projeto para postar códigos de desafios e adquirir o costume de usar o git.
+Projeto para postar códigos, desafios e adquirir o costume de usar o git.
